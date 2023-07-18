@@ -1,3 +1,9 @@
+# About the app
+This is an application built using React. Instead of JSX, I wrote TypeScript. There is a detailed course on building this very app (but in JSX), so I thought it would be fun to translate the same into TypeScript. Forgive me for mistakes you might see in this repo.
+
+# Screenshot of the app
+<img width="561" alt="calculator" src="https://github.com/basilmon92/react-calculator/assets/3906737/6d6c1295-8524-404e-80de-3b502a143bf3">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,9 +44,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
